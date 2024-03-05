@@ -12,7 +12,7 @@ Density estimation is a central task in statistics and machine learning. This pr
 
 ## Density estimation dataset
 
-The two-dimensional density estimation datasets can be downloaded from, 
+The two-dimensional density estimation datasets can be downloaded the following link: 
 
 - https://zenodo.org/records/7822851
 
