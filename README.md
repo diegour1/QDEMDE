@@ -1,6 +1,6 @@
 # Quantum density estimation with density matrices: Application to quantum anomaly detection
 
-![](https://raw.githubusercontent.com/diegour1/QDEMDE/main/Images/QDEMDE_Method3.png)
+![](https://raw.githubusercontent.com/diegour1/QDEMDE/main/Images/QDEMDE_Method3.jpg)
 
 ## Abstract
 
