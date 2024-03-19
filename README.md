@@ -4,7 +4,10 @@
 
 Implementation of the Q-DEMDE method: Quantum-classical density matrix density estimation
 
-- Diego H Useche, Oscar A Bustos-Brinez, Joseph A Gallego, and Fabio A González. Quantum density estimation with density matrices: Application to quantum anomaly detection. arXiv preprint arXiv:2201.10006, 2022.
+- Diego H. Useche, Oscar A. Bustos-Brinez, Joseph A. Gallego-Mejia, and Fabio A.
+Gonz ́alez. Quantum density estimation with density matrices: Application
+to quantum anomaly detection. Phys. Rev. A, 109:032418, Mar 2024.
+doi: 10.1103/PhysRevA.109.032418. URL [https://link.aps.org/doi/10.1103/PhysRevA.109.032418](https://link.aps.org/doi/10.1103/PhysRevA.109.032418).
 
 ## Abstract
 
