@@ -4,10 +4,7 @@
 
 Implementation of the article:
 
-- Diego H. Useche, Oscar A. Bustos-Brinez, Joseph A. Gallego-Mejia, and Fabio A.
-Gonz ́alez. Quantum density estimation with density matrices: Application
-to quantum anomaly detection. Phys. Rev. A, 109:032418, Mar 2024.
-doi: 10.1103/PhysRevA.109.032418. URL [https://link.aps.org/doi/10.1103/PhysRevA.109.032418](https://link.aps.org/doi/10.1103/PhysRevA.109.032418).
+- Diego H. Useche, Oscar A. Bustos-Brinez, Joseph A. Gallego-Mejia, and Fabio A. González. Quantum density estimation with density matrices: Application to quantum anomaly detection. Phys. Rev. A, 109:032418, Mar 2024. doi: 10.1103/PhysRevA.109.032418. URL [https://link.aps.org/doi/10.1103/PhysRevA.109.032418](https://link.aps.org/doi/10.1103/PhysRevA.109.032418).
 
 ## Abstract
 
